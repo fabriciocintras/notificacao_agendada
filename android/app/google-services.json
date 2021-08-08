@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252692853420",
+    "project_id": "aprendendo-notificacao-2daff",
+    "storage_bucket": "aprendendo-notificacao-2daff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252692853420:android:fb9fb2b36e3d1ca0492509",
+        "android_client_info": {
+          "package_name": "com.navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252692853420-20n8b8q38vlf04q7tuc6jmpfjpfebj20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP-oEwn_slJowqI3D2Dn074e8avXavLLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252692853420-20n8b8q38vlf04q7tuc6jmpfjpfebj20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
